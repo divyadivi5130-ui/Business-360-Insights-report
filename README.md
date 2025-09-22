@@ -1,6 +1,7 @@
 # 📊 Business 360 Insights
 
-This Power BI project is developed as part of the CodeBasics Power BI course. It focuses on advanced data modeling, DAX calculations, and business‑specific KPIs to evaluate customer and product performance in a simulated sales dataset.[
+This Power BI project is developed as part of the CodeBasics Power BI course. It focuses on advanced data modeling, DAX calculations, and business‑specific KPIs to evaluate customer and product performance in a simulated sales dataset.
+[https://github.com/divyadivi5130-ui/Business-360-Insights-report/blob/main/Report.pdf]
 
 ---
 
